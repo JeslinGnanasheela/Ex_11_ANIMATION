@@ -27,7 +27,6 @@ Registeration Number : 212222040062
 */
 ```
 
-## OUTPUT
 ## In activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
